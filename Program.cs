@@ -38,7 +38,7 @@ namespace TablesDeMultipliquer
                 }
                 else if (opcion == 0)
                 {
-                    Console.WriteLine("\nSaliendo del programe mi amerrrrrr...");
+                    Console.WriteLine("\nSaliendo del programe mi amorrrrrr...");
                 }
                 else
                 {    
